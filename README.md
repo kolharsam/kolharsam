@@ -4,6 +4,6 @@ Hi I'm Sameer Kolhar.
 
 I'm currently an intern [@hasura](https://github.com/hasura)
 
-You can talk to about anything from React on the frontend to using clojure for the backend.
+I like working with programming languages, distributed systems and user interfaces.
 
 [twitter](https://twitter.com/kolharsam)
