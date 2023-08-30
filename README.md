@@ -2,4 +2,4 @@
 
 I write code | qualified JSON plumber | graduate student @ NYU.
 
-Ex. @hasura | @klarna | @helpshift | @smallcase
+Ex. [@hasura](https://github.com/hasura) | [@klarna](https://github.com/klarna) | [@helpshift](https://github.com/helpshift) | [@smallcase](https://github.com/smallcase)
