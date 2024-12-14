@@ -1,5 +1,7 @@
 # kolharsam
 
-I write code | qualified JSON plumber | graduate student @ NYU.
+I am a qualified JSON plumber | currently a graduate student @ NYU.
 
-Ex. [@hasura](https://github.com/hasura) | [@klarna](https://github.com/klarna) | [@helpshift](https://github.com/helpshift) | [@smallcase](https://github.com/smallcase)
+Previously @ these fantastic orgs:  
+
+[@hasura](https://github.com/hasura) | [@klarna](https://github.com/klarna) | [@helpshift](https://github.com/helpshift) | [@smallcase](https://github.com/smallcase)
