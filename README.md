@@ -1,6 +1,6 @@
 # kolharsam
 
-I am a qualified JSON plumber | currently a graduate student @ NYU.
+I am a qualified JSON plumber | currently a graduate student @ NYU and SWE Intern [@tramline](https://github.com/tramlinehq)
 
 Previously @ these fantastic orgs:  
 
