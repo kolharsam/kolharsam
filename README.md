@@ -1,6 +1,8 @@
 # kolharsam
 
-I am a qualified JSON plumber | currently a graduate student @ NYU and SWE Intern [@tramline](https://github.com/tramlinehq)
+Find more about me on [kolharsam.net](https://kolharsam.net)
+
+I am a qualified JSON plumber | a CS Master's graduate @ NYU and SWE [@myboop-ai](https://github.com/myboop-ai)
 
 Previously @ these fantastic orgs:  
 
