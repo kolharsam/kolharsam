@@ -2,7 +2,7 @@
 
 Find more about me on [kolharsam.net](https://kolharsam.net)
 
-I am a qualified JSON plumber | a CS Master's graduate @ NYU and SWE [@myboop-ai](https://github.com/myboop-ai)
+I am a qualified JSON plumber | a CS Master's graduate from [NYU](https://www.nyu.edu/) and SWE [@myboop-ai](https://github.com/myboop-ai)
 
 Previously @ these fantastic orgs:  
 
